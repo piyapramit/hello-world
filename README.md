@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+This is Pramit!
+
+I am learning how to navigate through Github.
